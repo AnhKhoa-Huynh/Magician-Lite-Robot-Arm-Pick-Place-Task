@@ -32,4 +32,4 @@ This project was created as a practical introduction to robotic arm control, mot
 
 ![Motion Aware](magicianlite_images/Motion_aware_snapshot.png)
 
-![Desired vs Reconstructed](magicianlite_images/Desired_vs_Reconstructed.png)
+![Desired vs Reconstructed](magicianlite_images/Desired_vs_reconstructed.png)
