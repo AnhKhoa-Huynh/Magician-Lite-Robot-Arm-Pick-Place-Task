@@ -26,3 +26,6 @@ This project was created as a practical introduction to robotic arm control, mot
 6. Move to the drop-off position
 7. Release the object
 8. Return to the home position
+
+
+![Home, Pick, and Place Representation](magicianlite_images/Representing_hom_pick_place_state.png)
