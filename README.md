@@ -5,7 +5,7 @@ The aim of this project is to control a 4-axis robot arm to perform a simple pic
 This project was created as a practical introduction to robotic arm control, motion sequencing, coordinate-based movement, and automation logic.
 
 ## Demo
-[Robot in action]
+[Robot in action](MagicianLite.mp4)
 
 ## Main Features
 
